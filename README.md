@@ -46,6 +46,7 @@ src="https://img.shields.io/github/followers/adeeljameel810-byte?logo=github&sty
 <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+![Profile Views](https://komarev.com/ghpvc/?username=adeeljameel810-byte&color=green)
 
 
 
