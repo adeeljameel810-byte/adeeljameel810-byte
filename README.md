@@ -53,8 +53,8 @@ I am a passionate **Cyber Security Expert & Software Developer** focused on buil
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=highcontrast&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=adeeljameel810-byte&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=adeeljameel810-byte&theme=highcontrast&hide_border=true"/>
 </p>
 
 ---
@@ -62,7 +62,7 @@ I am a passionate **Cyber Security Expert & Software Developer** focused on buil
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/adeeljameel810-byte/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
@@ -86,11 +86,11 @@ I am a passionate **Cyber Security Expert & Software Developer** focused on buil
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin-username">
+<a href="https://linkedin.com/in/Jameel Ahmed">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/adeeljameel810-byte">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github">
 </a>
 
