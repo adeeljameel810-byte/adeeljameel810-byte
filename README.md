@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Jameel Ahmed</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Developer;Future+Software+Engineer;GitHub+Enthusiast;Campus+Expert+in+Progress&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Developer;Future+Software+Engineer;GitHub+Enthusiast;Cyber+Expert+in+Progress&center=true&width=500&height=50">
 </p>
 
 ---
