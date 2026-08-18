@@ -1,6 +1,4 @@
-![Rankistan Badge](https://rankistan.com/api/badge/adeeljameel810-byte)
-<div align="center">
-
+[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fadeeljameel810-byte&style=flat)](https://rankistan.dev/#adeeljameel810-byte)
 <h1>👋 Hi, I'm Jameel Ahmed!</h1>
 
 <p align="center">
