@@ -1,3 +1,4 @@
+![Rankistan Badge](https://rankistan.com/api/badge/adeeljameel810-byte)
 <div align="center">
 
 <h1>👋 Hi, I'm Jameel Ahmed!</h1>
