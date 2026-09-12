@@ -390,7 +390,7 @@ I'd love to hear from you! Whether you want to collaborate, discuss technology, 
 ---
 
 <p>
-  <img src="https://img.shields.io/badge/Last%20Updated-September%202024-brightgreen?style=flat" alt="Last Updated" />
+  <img src="https://img.shields.io/badge/Last%20Updated-September%202026-brightgreen?style=flat" alt="Last Updated" />
   &nbsp;
   <img src="https://img.shields.io/badge/Maintained%20By-Jameel%20Ahmed-blue?style=flat" alt="Maintained By" />
 </p>
