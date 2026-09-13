@@ -34,9 +34,7 @@
 </p>
 
 <!-- Profile Views Counter -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=adeeljameel810-byte&label=👁️+Profile+Views&color=00D4FF&style=for-the-badge" alt="Profile Views" />
-</p>
+![](https://komarev.com/ghpvc/?username=rashidwassan&color=blueviolet&label=Profile+Views)
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
