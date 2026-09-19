@@ -34,7 +34,7 @@
 </p>
 
 <!-- Profile Views Counter -->
-![](https://komarev.com/ghpvc/?username=rashidwassan&color=blueviolet&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=adeeljameel810-byte&color=blueviolet&label=Profile+Views)
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
