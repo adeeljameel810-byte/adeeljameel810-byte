@@ -48,7 +48,7 @@
 
 ## 🌟 About Me
 
-I'm a **Software Engineering student** with a passion for building elegant solutions, contributing to open source, and creating positive impact in the tech community. My journey is defined by curiosity, consistency, and the desire to help others grow as developers.
+I am a **Software Engineering student** with a passion for building elegant solutions, contributing to open sources, and creating positive impact in the tech community. My journey is defined by curiosity, consistency, and the desire to help others grow as developers and builders as well as compititors.
 
 I believe in the power of collaborative learning and the importance of sharing knowledge. Whether through code, mentoring, or community engagement, I'm committed to making the tech world more accessible and inspiring to everyone.
 
